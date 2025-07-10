@@ -1,0 +1,11 @@
+{
+  "name": "php-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lotus352/php-test.git",
+  "author": "Lotus352 <tienhungg0305@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^4.1.11"
+  }
+}
